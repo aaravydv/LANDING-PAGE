@@ -1,3 +1,62 @@
+// HTML
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="dgg.css">
+    <title>Your Landing Page</title>
+</head>
+<body>
+
+    <header>
+        <h1>LANDING PAGE WEB</h1>
+        <p>Welcome to our awesome website</p>
+    </header>
+
+    <section id="hero">
+        <h2>Discover Something Amazing</h2>
+        <p>Your catchy tagline goes here. Briefly describe what you offer.</p>
+        <a href="#features" class="cta-button">Learn More</a>
+    </section>
+
+    <section id="features">
+        <div class="feature">
+            <h3>Feature 1</h3>
+            <p>Description of the first awesome feature.</p>
+        </div>
+        <div class="feature">
+            <h3>Feature 2</h3>
+            <p>Description of the second awesome feature.</p>
+        </div>
+        <div class="feature">
+            <h3>Feature 3</h3>
+            <p>Description of the third awesome feature.</p>
+        </div>
+        <div class="feature">
+            <h3>Product 1</h3>
+            <p> this was the first awesome feature.</p>
+        </div>
+        <div class="feature">
+            <h3>product 2</h3>
+            <p>Description of the second awesome feature.</p>
+        </div>
+        <div class="feature">
+            <h3>Product 3</h3>
+            <p>Description of the third awesome feature.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Your Brand. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
+
+
+
+//CSS
 body {
     font-family: 'Arial', sans-serif;
     margin: 0;
