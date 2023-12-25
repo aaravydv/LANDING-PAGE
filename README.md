@@ -51,12 +51,6 @@
         <p>&copy; 2024 Your Brand. All rights reserved.</p>
     </footer>
 
-</body>
-</html>
-
-
-
-//CSS
 body {
     font-family: 'Arial', sans-serif;
     margin: 0;
@@ -115,3 +109,6 @@ footer {
     text-align: center;
     padding: 10px;
 }
+
+</body>
+</html>
